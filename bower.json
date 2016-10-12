@@ -1,0 +1,17 @@
+{
+  "name": "jekyll-site",
+  "homepage": "https://github.com/dmanzer2/jekyll-site",
+  "authors": [
+    "David Manzer <dmanzer2@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
