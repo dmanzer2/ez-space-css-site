@@ -7,10 +7,10 @@ description: "Simple css class system for quickly and easily adding space to you
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#6ADDE6'
+  links: '#68DBE7'
 
 # Footer settings
-footer: ez-space
+footer: ez-space 1.0.0
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
