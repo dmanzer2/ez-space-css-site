@@ -10,4 +10,4 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscal
 ![screenshot](https://github.com/dmanzer2/jekyll-site/blob/master/img/ez-space.png)
 
 =========
-For more details, read the [documentation](http://jekyllrb.com/)
+For more details about ex-space, read the [documentation](https://github.com/dmanzer2/ez-space)
