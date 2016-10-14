@@ -393,3 +393,9 @@ body {
     background: #222;
     border: none;
 }
+
+#download p.well {
+    background: #222;
+    border: none;
+    color: {{ site.color.links }};
+}
