@@ -57,6 +57,12 @@ a:focus {
     color: #11505d;
 }
 
+.teal-text {
+    color: {{ site.color.links }};
+}
+
+
+
 .light {
     font-weight: 400;
 }
@@ -364,4 +370,26 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+#about h4 {
+    text-decoration: underline;
+}
+
+#about p {
+    font-size: 16px;
+    color: #999;
+}
+
+#about p strong {
+    text-transform: lowercase;
+}
+
+#about .well p {
+    margin-bottom: 0;
+}
+
+#about .well {
+    background: #121212;
+    border: none;
 }
