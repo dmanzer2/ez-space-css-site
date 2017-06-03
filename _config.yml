@@ -21,6 +21,6 @@ social:
 - title: stack-overflow
   url: http://stackoverflow.com/users/3818125/dmanzer2
 - title: github
-  url: http://www.ezspacecss.com
+  repo: https://github.com/dmanzer2/ez-space-css-repo
 markdown: kramdown
 permalink: pretty
