@@ -1,10 +1,12 @@
-# ez-space 1.0.0
+[![Bower version](https://badge.fury.io/bo/ez-space.svg)](https://badge.fury.io/bo/ez-space)
 
-Simple way to add spacing quickly and easily using a set of classes. Ideal for use with Bootstrap 3.
+# ezspacecss 1.1.0
+
+Bootstrap utility classes for quickly adding padding and margin spacing. Ideal for Boostrap 3 media queries
 
 ### Conventions
 
-This modular based css class system to be used in conjunction with any html structure. Works well if you understand the bootstrap naming conventions. For instance, xs = extra small, s = small, m = medium, l = large. Built with Bootstrap's native media queries in mind.
+This modular based css class system is to be used in conjunction with any html structure. Works well if you understand the bootstrap column naming convention. For instance, xs = extra small, s = small, m = medium, l = large. Built with Bootstrap's native media queries.
 
 #### Media Queries:
 
@@ -30,20 +32,22 @@ b = bottom
 
 r = right
 
-#### Sizes in pixels:
+#### Sizes in pixels using incraments of 5:
 
 5px - 100px sizing
 
 ### The basics
 
-Apply the set class to your html to quickly add additiona spacing. Classes are as follows:
+Apply these classes to your html to quickly add additional margin or padding space. Classes are as follows:
 
-**Example: xs-ml-10 = extra small margin of 10px applied to the left**
+**Example: .xs-ml-10 = margin of 10px applied to the left of any element on a mobile device**
+
+**Example: .sm-mr-20 = margin of 20px applied to the right of any element on a tablet device**
 
 ### install with Bower
 
 ```
-$ bower install ez-space
+$ bower install ez-space-css-repo
 ```
 
 ![Image of bower logo](https://bower.io/img/bower-logo.svg)
