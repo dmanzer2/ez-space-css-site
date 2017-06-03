@@ -1,10 +1,10 @@
 {
   "name": "ez-space",
-  "homepage": "git://github.com/dmanzer2/ez-space.git",
+  "homepage": "git://github.com/dmanzer2/ez-space-css-repo.git",
   "authors": [
     "David Manzer <dmanzer2@gmail.com>"
   ],
-  "description": "Spacing utility classes for quick spacing mods. Ideal for Boostrap media queries",
+  "description": "Bootstrap utility classes for quickly adding padding and margin spacing. Ideal for Boostrap 3 media queries",
   "main": "css/ez-space.css",
   "keywords": [
     "css",
@@ -27,8 +27,8 @@
     "branch": "master",
     "commit": "9970821e1f24bb303ccc1ac1c7c136e91224876f"
   },
-  "_source": "https://github.com/dmanzer2/ez-space.git",
+  "_source": "https://github.com/dmanzer2/ez-space-css-repo.git",
   "_target": "*",
-  "_originalSource": "ez-space",
+  "_originalSource": "ez-space-css-repo",
   "_direct": true
 }

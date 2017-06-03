@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 email: dmanzer2@gmail.com
-url: https://dmanzer2.github.io/jekyll-site/
+url: http://www.ezspacecss.com
 description: Simple css class system for quickly and easily adding set padding and
   margin sizes.
 color:
@@ -20,6 +20,6 @@ social:
 - title: stack-overflow
   url: http://stackoverflow.com/users/3818125/dmanzer2
 - title: github
-  url: https://dmanzer2.github.io/ez-space/
+  url: http://www.ezspacecss.com
 markdown: kramdown
 permalink: pretty
