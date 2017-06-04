@@ -4,11 +4,11 @@
     <div class="col-lg-8 col-lg-offset-2">
       <h2>Contact</h2>
       <p>Please feel free submit a pull request or contact me with any questions. </p>
-      <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      <p><a href="mailto:{{ site.email }}" title="Contact ezspacecss">{{ site.email }}</a></p>
       <ul class="list-inline banner-social-buttons">
         {% for network in site.social %}
         <li>
-          <a href="{{ network.url }}" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+          <a href="{{ network.url }}" class="btn btn-default btn-lg" target="_blank" title="{{ network.title }}"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
         </li>
         {% endfor %}
       </ul>
