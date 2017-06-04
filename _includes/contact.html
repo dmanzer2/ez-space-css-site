@@ -1,18 +1,19 @@
     <!-- Contact Section -->
     <section id="contact" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>Contact</h2>
-                <p>Please feel free submit a pull request or contact me with any questions. </p>
-                <p><a href="mailto:{{ site.email }}">{{ site.email }}</a>
-                </p>
-                <ul class="list-inline banner-social-buttons">
-                    {% for network in site.social %}
-                    <li>
-                        <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-        </div>
+      <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+              <h2>Contact</h2>
+              <p>Please feel free submit a pull request or contact me with any questions. </p>
+              <p><a href="mailto:{{ site.email }}">{{ site.email }}</a>
+              </p>
+              <ul class="list-inline banner-social-buttons">
+                  {% for network in site.social %}
+                  <li>
+                      <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+                  </li>
+                  {% endfor %}
+              </ul>
+              <a href="https://plus.google.com/u/2/118224980858554697709" class="btn btn-default btn-lg" title="ezspacecss on google+"><i class="fa fa-google-plus fa-fw"></i></a>
+          </div>
+      </div>
     </section>
