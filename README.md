@@ -1,7 +1,7 @@
-ezspacecss site using Grayscale Jekyll theme
+ezspaceCSS site using Grayscale Jekyll theme
 ==========================================
 
-ezspacecss site is based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+ezspaceCSS site is based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
 
 ## Demo
 View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
@@ -10,4 +10,4 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscal
 ![screenshot](https://github.com/dmanzer2/jekyll-site/blob/master/img/ez-space.png)
 
 =========
-For details about ezspacecss, read the [documentation](https://github.com/dmanzer2/ez-space-css-repo)
+For details about ezspaceCSS, read the [documentation](https://github.com/dmanzer2/ez-space-css-repo)
