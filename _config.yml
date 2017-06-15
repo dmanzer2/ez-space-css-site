@@ -12,8 +12,8 @@ email: ezspaceCSS@gmail.com
 author: David Manzer
 url: http://www.ezspaceCSS.com
 repo: https://github.com/dmanzer2/ez-space-css-repo
-description: Bootstrap utility classes for quickly adding padding and margin spacing. Ideal for Boostrap 3 media queries
-keywords: html codes for forums, html css forums, forum css codes, forum en html, html coding forum, css margin and padding helper, bootstrap 3 utility, bootstrap 3 classes, utility classes, bootstrap 3 tool, margin css, padding css, margin classes, padding classes, margin, padding, sass, bower, css, bootstrap designer, bootstrap spacing, responsive classes, bootstrap design tool, css clases
+description: bootstrap 3 spacing utility for quickly adding padding and margin spacing. Ideal for Boostrap 3 media queries
+keywords: bootstrap 3 helper classes, bootstrap 3 spacing utility, bootstrap 3 utility, SASS spacing utility for bootstrap, extra bootstrap 3 classes, CSS utility classes, bootstrap 3 tool, margin css utility, padding css utility, extra margin classes, extra padding classes, margin tool, padding tool, sass package, bower install, css, bootstrap CSS for designers, extra bootstrap spacing, bootstrap responsive classes, bootstrap extra tool, css clases for bootstrap
 color:
   primary-dark: "#111111"
   links: "#68DBE7"
