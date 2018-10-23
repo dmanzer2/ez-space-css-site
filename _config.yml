@@ -19,8 +19,6 @@ color:
   links: "#68DBE7"
 footer: ezspaceCSS 1.1.0
 social:
-- title: stack-overflow
-  url: http://stackoverflow.com/users/3818125/dmanzer2
 - title: github
   url: https://github.com/dmanzer2/ez-space-css-repo
 markdown: kramdown
