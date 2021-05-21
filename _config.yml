@@ -17,7 +17,7 @@ keywords: bootstrap 3 helper classes, bootstrap 3 spacing utility, bootstrap 3 u
 color:
   primary-dark: "#111111"
   links: "#68DBE7"
-footer: ezspaceCSS 1.1.0
+footer: ezspaceCSS 1.2.0
 social:
 - title: github
   url: https://github.com/dmanzer2/ez-space-css-repo
