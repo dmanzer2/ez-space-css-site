@@ -270,6 +270,10 @@ a:focus {
     -o-background-size: cover;
 }
 
+.download-section h2, .download-section p {
+    text-shadow: 0 0 9px black;
+}
+
 #map {
     width: 100%;
     height: 200px;
