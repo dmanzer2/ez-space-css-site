@@ -13,7 +13,7 @@ author: David Manzer
 url: http://www.ezspaceCSS.com
 repo: https://github.com/dmanzer2/ez-space-css-repo
 description: A collection of Bootstrap 3 utility and helper classes for quick and easy padding and margin adjustments. Effortlessly apply spacing with the ezspaceCSS npm package, perfectly optimized for Bootstrap 3.
-keywords: bootstrap 3 helper classes, bootstrap 3 spacing utility, bootstrap 3 utility, SASS spacing utility for bootstrap, extra bootstrap 3 classes, CSS utility classes, bootstrap 3 tool, margin css utility, padding css utility, extra margin classes, extra padding classes, margin tool, padding tool, sass package, bower install, css, bootstrap CSS for designers, extra bootstrap spacing, bootstrap responsive classes, bootstrap extra tool, css classes for bootstrap
+keywords: bootstrap 3 helper classes, bootstrap 3 spacing utility, bootstrap 3 utility, SASS spacing utility for bootstrap, extra bootstrap 3 classes, CSS utility classes, bootstrap 3 tool, margin css utility, padding css utility, extra margin classes, extra padding classes, margin tool, padding tool, sass package, npm install, css, bootstrap CSS for designers, extra bootstrap spacing, bootstrap responsive classes, bootstrap extra tool, css classes for bootstrap
 color:
   primary-dark: "#111111"
   links: "#68DBE7"
